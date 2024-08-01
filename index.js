@@ -142,8 +142,6 @@ for (let sayi of sayilar){
   }
 }
 
-
-
 tekraredensayilar = []
 for (const [key, value] of Object.entries(depo)){
   if (depo[key] === 1){
